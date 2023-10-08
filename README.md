@@ -1,6 +1,7 @@
 # Lunar Seismic Events Visualization
 
-![Moonquake Simulator](images/moonquake_simulator.jpg)
+![Moonquake Simulator](<img width="1512" alt="Screenshot 2023-10-08 alle 21 43 37" src="https://github.com/Alessandro-Petitti/Space_app_challenge/assets/99899888/d3e6c379-0e6a-4c1e-b204-9c88e6749af9">
+)
 
 ## Introduction
 
@@ -44,9 +45,6 @@ Feel free to open issues, submit pull requests, or reach out to us if you have a
 
 ## Credits
 
-This project was developed by [Your Name] and [Contributor Names] as a response to the challenge.
+This project was developed by Alessandro Petitti, Alessandro Ferranti Beatrice Bonifazi, Federico Bini, Sara Coppola and Esteban Rocchi as a response to the challenge.
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
