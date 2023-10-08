@@ -1,7 +1,6 @@
 # Lunar Seismic Events Visualization
 
-![Moonquake Simulator](<img width="1512" alt="Screenshot 2023-10-08 alle 21 43 37" src="https://github.com/Alessandro-Petitti/Space_app_challenge/assets/99899888/d3e6c379-0e6a-4c1e-b204-9c88e6749af9">
-)
+![Screenshot](Moonquake_simulator.png)
 
 ## Introduction
 
