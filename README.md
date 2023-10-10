@@ -14,9 +14,8 @@ In this repository, you'll find the code for the 3-D web application and the Ard
 
 This repository is organized as follows:
 
-- `webapp/`: Contains the code for the 3-D web application.
-- `arduino/`: Contains the Arduino code for the moonquake simulator.
-- `images/`: Images and media resources related to the project.
+- `ThreeJs.../`: Contains the code for the 3-D web application.
+- `nasa.ino/`: Contains the Arduino code for the moonquake simulator.
 
 ## Getting Started
 
@@ -26,7 +25,7 @@ To explore lunar seismic events on the 3-D digital moon globe, follow these step
 
 1. Clone this repository to your local machine.
 
-2. Navigate to the `webapp` directory.
+2. Open the `ThreeJs...` directory.
 
 3. Open the `index.html` file in your web browser.
 
@@ -34,7 +33,7 @@ To explore lunar seismic events on the 3-D digital moon globe, follow these step
 
 ### Building the Moonquake Simulator
 
-Instructions for building the moonquake simulator physically (both the structure and the circuit) will be provided in the `arduino` directory.
+Instructions for building the moonquake simulator physically (both the structure and the circuit) will be provided shortly in the `arduino` directory.
 
 ## Additional Information
 
