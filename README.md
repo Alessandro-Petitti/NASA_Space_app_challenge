@@ -1,6 +1,6 @@
 # Lunar Seismic Events Visualization
 
-
+![](https://github.com/Alessandro-Petitti/Space_app_challenge/blob/main/demo.gif)
 
 ## Introduction
 
