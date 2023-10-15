@@ -1,6 +1,6 @@
 # Lunar Seismic Events Visualization
 
-![Screenshot](Moonquake_simulator.png)
+
 
 ## Introduction
 
