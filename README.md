@@ -33,7 +33,19 @@ To explore lunar seismic events on the 3-D digital moon globe, follow these step
 
 ### Building the Moonquake Simulator
 
-Instructions for building the moonquake simulator physically (both the structure and the circuit) will be provided shortly in the `arduino` directory.
+Here are the component used for the simulator:
+
+* [ ] Arduino Uno R3
+
+* [ ] CC motor
+
+* [ ] Potentiometer
+
+* [ ] L298n motor driver
+
+* [ ] MPU6050 (3 axis accelerometer)              
+
+Everything was connected throught a breadbord, powering the motor wih a 9V battery, regulated with a PWM pin on the arduino board. The driver aplifies the signal coming from the PWM, which would otherwise be too week to move the motor, and controlls it's spinning direction.
 
 ## Additional Information
 
