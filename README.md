@@ -45,7 +45,7 @@ Here are the component used for the simulator:
 
 * [ ] MPU6050 (3 axis accelerometer)
 
-* [ ] LED and 220$\Omega$ resistor          
+* [ ] LED and 220 $\Omega$ resistor          
 
 Everything was connected throught a breadbord, powering the motor wih a 9V battery, regulated with a **PWM** pin on the arduino board. The driver aplifies the signal coming from the PWM, which would otherwise be too week to pilot the motor, and controlls it's spinning direction. 
 In the end a potentiometer regulates the output of the PWM, changing motor speed
